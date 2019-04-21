@@ -1,0 +1,6 @@
+{
+  "name": "@mic2100/fuzzy-time",
+  "description": "This was inspired from the fuzzy time clock that exists on Ubuntu. It gives you a rough idea what the time is without you knowing the exact minutes.",
+  "version": "0.0.4",
+  "license": "MIT"
+}
